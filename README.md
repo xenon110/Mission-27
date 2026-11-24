@@ -6,28 +6,178 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 14 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
-- [strings](#strings) (1)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (3)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (2)
+- [divide and conquer](#divide-and-conquer) (1)
+- [dp](#dp) (3)
+- [flows](#flows) (1)
+- [graphs](#graphs) (3)
+- [greedy](#greedy) (3)
+- [hashing](#hashing) (2)
+- [implementation](#implementation) (3)
+- [interactive](#interactive) (1)
+- [math](#math) (3)
+- [number theory](#number-theory) (1)
+- [schedules](#schedules) (1)
+- [shortest paths](#shortest-paths) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (4)
+- [ternary search](#ternary-search) (1)
+- [trees](#trees) (1)
 
 ---
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.java) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.java) |
+| 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1290D | [Coffee Varieties (hard version)](https://codeforces.com/contest/1290/problem/D) | 3000 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1290/D%20-%20Coffee%20Varieties%20(hard%20version)/solution.py) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 797C | [Minimal string](https://codeforces.com/contest/797/problem/C) | 1700 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/797/C%20-%20Minimal%20string/solution.cpp) |
+
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 510C | [Fox And Names](https://codeforces.com/contest/510/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/510/C%20-%20Fox%20And%20Names/solution.cpp) |
+| 1214D | [Treasure Island](https://codeforces.com/contest/1214/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/1214/D%20-%20Treasure%20Island/solution.cpp) |
+
+### divide and conquer
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 448C | [Painting Fence](https://codeforces.com/contest/448/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/448/C%20-%20Painting%20Fence/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 448C | [Painting Fence](https://codeforces.com/contest/448/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/448/C%20-%20Painting%20Fence/solution.cpp) |
+| 955F | [Heaps](https://codeforces.com/contest/955/problem/F) | 2600 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/955/F%20-%20Heaps/solution.cpp) |
+| 1214D | [Treasure Island](https://codeforces.com/contest/1214/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/1214/D%20-%20Treasure%20Island/solution.cpp) |
+
+### flows
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1214D | [Treasure Island](https://codeforces.com/contest/1214/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/1214/D%20-%20Treasure%20Island/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 20C | [Dijkstra?](https://codeforces.com/contest/20/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/20/C%20-%20Dijkstra%3F/solution.cpp) |
+| 510C | [Fox And Names](https://codeforces.com/contest/510/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/510/C%20-%20Fox%20And%20Names/solution.cpp) |
+| 1290D | [Coffee Varieties (hard version)](https://codeforces.com/contest/1290/problem/D) | 3000 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1290/D%20-%20Coffee%20Varieties%20(hard%20version)/solution.py) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.java) |
+| 448C | [Painting Fence](https://codeforces.com/contest/448/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/448/C%20-%20Painting%20Fence/solution.cpp) |
+| 797C | [Minimal string](https://codeforces.com/contest/797/problem/C) | 1700 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/797/C%20-%20Minimal%20string/solution.cpp) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1214D | [Treasure Island](https://codeforces.com/contest/1214/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/1214/D%20-%20Treasure%20Island/solution.cpp) |
+| 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.java) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
+| 691B | [s-palindrome](https://codeforces.com/contest/691/problem/B) | 1600 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/691/B%20-%20s-palindrome/solution.java) |
+| 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.java) |
+
+### interactive
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1290D | [Coffee Varieties (hard version)](https://codeforces.com/contest/1290/problem/D) | 3000 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1290/D%20-%20Coffee%20Varieties%20(hard%20version)/solution.py) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
+| 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
+
+### schedules
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.java) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 20C | [Dijkstra?](https://codeforces.com/contest/20/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/20/C%20-%20Dijkstra%3F/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 510C | [Fox And Names](https://codeforces.com/contest/510/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/510/C%20-%20Fox%20And%20Names/solution.cpp) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
+| 691B | [s-palindrome](https://codeforces.com/contest/691/problem/B) | 1600 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/691/B%20-%20s-palindrome/solution.java) |
+| 797C | [Minimal string](https://codeforces.com/contest/797/problem/C) | 1700 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/797/C%20-%20Minimal%20string/solution.cpp) |
+
+### ternary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.java) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 955F | [Heaps](https://codeforces.com/contest/955/problem/F) | 2600 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/955/F%20-%20Heaps/solution.cpp) |
 
 ---
 
