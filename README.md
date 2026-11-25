@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 21 |
+| 15 | 21 |
 
 ---
 
@@ -14,16 +14,16 @@
 
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (2)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (3)
 - [flows](#flows) (1)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [interactive](#interactive) (1)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
@@ -55,6 +55,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1290D | [Coffee Varieties (hard version)](https://codeforces.com/contest/1290/problem/D) | 3000 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1290/D%20-%20Coffee%20Varieties%20(hard%20version)/solution.py) |
+| 1541A | [Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1541/A%20-%20Pretty%20Permutations/solution.py) |
 
 ### data structures
 
@@ -104,6 +105,7 @@
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.java) |
 | 448C | [Painting Fence](https://codeforces.com/contest/448/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/448/C%20-%20Painting%20Fence/solution.cpp) |
 | 797C | [Minimal string](https://codeforces.com/contest/797/problem/C) | 1700 | [C++17 (GCC 7-32)](https://github.com/xenon110/Mission-27/blob/HEAD/797/C%20-%20Minimal%20string/solution.cpp) |
+| 1541A | [Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1541/A%20-%20Pretty%20Permutations/solution.py) |
 
 ### hashing
 
@@ -118,6 +120,7 @@
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 691B | [s-palindrome](https://codeforces.com/contest/691/problem/B) | 1600 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/691/B%20-%20s-palindrome/solution.java) |
+| 1541A | [Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1541/A%20-%20Pretty%20Permutations/solution.py) |
 | 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.java) |
 
 ### interactive
