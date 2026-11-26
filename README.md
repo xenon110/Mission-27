@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 21 |
+| 16 | 21 |
 
 ---
 
@@ -25,8 +25,8 @@
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (4)
 - [interactive](#interactive) (1)
-- [math](#math) (3)
-- [number theory](#number-theory) (1)
+- [math](#math) (4)
+- [number theory](#number-theory) (2)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -135,6 +135,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
+| 1553A | [Digits Sum](https://codeforces.com/contest/1553/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1553/A%20-%20Digits%20Sum/solution.py) |
 | 2020C | [Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | 1400 | [Java 21](https://github.com/xenon110/Mission-27/blob/HEAD/2020/C%20-%20Bitwise%20Balancing/solution.java) |
 
 ### number theory
@@ -142,6 +143,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
+| 1553A | [Digits Sum](https://codeforces.com/contest/1553/problem/A) | 800 | [Python 3](https://github.com/xenon110/Mission-27/blob/HEAD/1553/A%20-%20Digits%20Sum/solution.py) |
 
 ### schedules
 
